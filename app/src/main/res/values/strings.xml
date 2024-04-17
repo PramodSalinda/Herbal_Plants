@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Recycle view</string>
+    <string-array name="info_data_array">
+        <item>In Sri Lanka this plant is commonly known as "bin kohomba" in Sinhalese (Dharmadasa et al., 2012), and is mostly given for lung and brain cancers. Leaves, roots or the whole plant are used for medicinal purposes. The demand for this herb is very high in Sri Lanka and as a result it is very expensive to obtain.</item>
+        <item>Gonika leaves, derived from the Hoya avalifolia plant in Sri Lanka, possess remarkable health benefits. They aid in weight loss, alleviate body inflammation and pain, promote healing of fractures, and contribute to a healthy heart.</item>
+        <item>A very rare and endemic to Sri Lanka, Heenbovitia has been using to treat a bulk load of diseases in traditional Sri Lankan medicine. Heenbovitiya protectects liver cells and it gives more energy to the liver to do the job that the liver has. Furthermore, it has the ability to lower your blood sugar level.</item>
+        <item>Dried leaves of Katupila were powdered and made into paste by adding sesame oil and applied on the wound..</item>
+        <item>Kasturi Manjal is used in traditional medicine for external applications for curing skin diseases, sprain, bruises, snake poison and improving skin complexion and texture. This wonder ingredient is credited to have potent anti-inflammatory, wound healing, anti-melanogenic, antioxidant, anti-tumour, anti-cancer, anti-repellent, antitussive, anti-platelet activity and anti-nephrotoxic properties.</item>
+        <item>Hence, drinking Iramusu tea regularly will help balance body heat in tropical climates and would also improve skin complexion and texture, while preventing irritation of the skin. Iramusu also cleanses the system from within and eliminate harmful toxins through sweat and urine.</item>
+        <item>Key Benefits Purifies Blood, and Detoxifies the body Ranawara flower tea is useful in sugar disorders Promotes mild diuretic actions Prevents disurea and renal calculi formation Promotes clear complexion and restore skin to its natural glow Regular use reduces body heat Other Benefits Eliminate bad body odors Control</item>
+    </string-array>
+
+    <string-array name="b_name_array">
+        <item>Bin Kohomba</item>
+        <item>Gonika</item>
+        <item>Heen Bovitiya</item>
+        <item>Katupila</item>
+        <item>Kasthuri Kaha</item>
+        <item>Ira Musu</item>
+        <item>Ranawara</item>
+    </string-array>
+
+
+    <string name="plant1">plant1</string>
+    <string name="plant2">plant2</string>
+    <string name="plant3">plant3</string>
+    <string name="plant4">plant4</string>
+    <string name="plant5">plant5</string>
+    <string name="plant6">plant6</string>
+    <string name="plant7">plant7</string>
+
+
+
+
+
+
+
+
+
+</resources>
